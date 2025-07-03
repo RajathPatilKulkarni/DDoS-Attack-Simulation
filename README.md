@@ -1,5 +1,10 @@
 # 🛡️ DDoS Attack Simulation in C++
 
+[![C++](https://img.shields.io/badge/C%2B%2B-17-blue)](https://en.cppreference.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![Simulated](https://img.shields.io/badge/Simulated-DDoS%20Attack-critical)](#)
+[![Mitigation](https://img.shields.io/badge/Mitigation-Rate%20Limiting%2C%20DPI-lightgrey)](#)
+
 This project simulates a Distributed Denial-of-Service (DDoS) attack in a network of nodes using C++. It models legitimate and malicious traffic, processes packets, and applies mitigation strategies to analyze how a target system handles attack scenarios.
 
 > ⚠️ For educational and ethical use only. This simulation is intended solely for research and learning purposes.
